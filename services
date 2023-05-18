@@ -1,0 +1,6 @@
+accesskeyid:AKIA2ZZWNS2VKDGC7SFP
+secretaccesskey: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
+
+terraform init 
+terraform plan
+terraform apply
